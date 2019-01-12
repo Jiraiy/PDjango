@@ -1,2 +1,3 @@
-# ProgectsDjango-My
-Проекты Python + Django
+# MyFirstDjangoProject
+
+Тестовое задание по туториалу Django + DRF
